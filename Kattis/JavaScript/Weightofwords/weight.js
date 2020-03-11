@@ -77,7 +77,7 @@ var dict = {
 
 function processor(input) {
     input.split(' ').map((a)=>{return parseInt(a)})
-    var quotient = 
+    // var quotient = 
     // var remainder = 
     // return input
 }
